@@ -1,6 +1,6 @@
 
 
-SITE MAP OF XXQG
+This is a sitemap of xuexi qianggup.
 
 1.[登录](https://pc.xuexi.cn/points/login.html?ref=https%3A%2F%2Fwww.xuexi.cn%2F)
 
