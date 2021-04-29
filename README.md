@@ -62,6 +62,4 @@ SITE MAP OF XXQG
 
 30.[红色中国](https://www.xuexi.cn/482f31e90c481f2161a19ecfcbb91f8b/e6109f421e472b4399b006ba21bc2ecd.html)
 
-31.[看电视](https://www.xuexi.cn/2f1ef62aa33cee2644d88d42e07862ce/1387f28e5e955f9120c0272b0c58b664.html)
-
-32.[我的书架](https://www.xuexi.cn/9c07fc4cfb37478cb90ba006c911240b/2c4b5bffe40a6b77f03bf5adcd088e38.html)
+31.[我的书架](https://www.xuexi.cn/9c07fc4cfb37478cb90ba006c911240b/2c4b5bffe40a6b77f03bf5adcd088e38.html)
