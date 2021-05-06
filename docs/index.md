@@ -4,10 +4,9 @@
 
 1. **[登录](https://pc.xuexi.cn/points/login.html?ref=https%3A%2F%2Fwww.xuexi.cn%2F)**
 2. **[我的积分](https://pc.xuexi.cn/points/my-points.html)**
-3. **[选读文章](https://www.xuexi.cn/)**
 4. **[头条新闻](https://www.xuexi.cn/72ac54163d26d6677a80b8e21a776cfa/9a3668c13f6e303932b5e0e100fc248b.html)**
 5. **[图片报道](https://tj.xuexi.cn/=2f56457ca6540b0af59633db625840b55abe1cf6a80443679d531c12587d075da133adcb29912b8c02454acceead679a&page=1)**
-6. **[视听学习](https://www.xuexi.cn/0809b8b6ab8a81a4f55ce9cbefa16eff/ae60b027cb83715fd0eeb7bb2527e88b.html)**
+6. **[视听学习](https://www.xuexi.cn/4426aa87b0b64ac671c96379a3a8bd26/db086044562a57b441c24f2af1c8e101.html#1novbsbi47k-5)**
 7. **[每日答题](https://pc.xuexi.cn/points/exam-practice.html)**
 8. **[每周答题](https://pc.xuexi.cn/points/exam-weekly-list.html)**
 9. **[专项答题](https://pc.xuexi.cn/points/exam-paper-list.html)**
