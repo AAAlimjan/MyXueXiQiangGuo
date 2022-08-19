@@ -4,12 +4,11 @@
 
 1. **[登录](https://pc.xuexi.cn/points/login.html?ref=https%3A%2F%2Fwww.xuexi.cn%2F)**
 2. **[我的积分](https://pc.xuexi.cn/points/my-points.html)**
-4. **[头条新闻](https://www.xuexi.cn/72ac54163d26d6677a80b8e21a776cfa/9a3668c13f6e303932b5e0e100fc248b.html)**
-6. **[视听学习](https://www.xuexi.cn/4426aa87b0b64ac671c96379a3a8bd26/db086044562a57b441c24f2af1c8e101.html#1novbsbi47k-5)**
-7. **[每日答题](https://pc.xuexi.cn/points/exam-practice.html)**
-8. **[每周答题](https://pc.xuexi.cn/points/exam-weekly-list.html)**
-9. **[专项答题](https://pc.xuexi.cn/points/exam-paper-list.html)**
-10. **[本地频道](https://tj.xuexi.cn/)**
+3. **[头条新闻](https://www.xuexi.cn/72ac54163d26d6677a80b8e21a776cfa/9a3668c13f6e303932b5e0e100fc248b.html)**
+4. **[视听学习](https://www.xuexi.cn/4426aa87b0b64ac671c96379a3a8bd26/db086044562a57b441c24f2af1c8e101.html#1novbsbi47k-5)**
+5. **[每日答题](https://pc.xuexi.cn/points/exam-practice.html)**
+6. **[专项答题](https://pc.xuexi.cn/points/exam-paper-list.html)**
+7. **[本地频道](https://tj.xuexi.cn/)**
 
 ------
 
@@ -52,4 +51,9 @@
 47. **[外研社（强国版）](https://xuexi.fltrp.com/zgwh/)**
 48. **[人民出版社（强国版）](http://xuexi.lilun.cn/)**
 49. [讲话数据库*](http://jhsjk.people.cn/)
+
+|  |  |  |  |
+|---|---|---|:--|
+|  |  |  |[讲话数据库*](http://jhsjk.people.cn/)|
+
 
