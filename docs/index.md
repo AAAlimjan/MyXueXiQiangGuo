@@ -54,6 +54,6 @@
 
 |  |  |  |  |
 |---|---|---|:--|
-|  |  |  |[讲话数据库*](http://jhsjk.people.cn/)|
+| **[社科词条](https://www.skctk.cn/)** | **[外研社（强国版）](https://xuexi.fltrp.com/zgwh/)** |  **[人民出版社（强国版）](http://xuexi.lilun.cn/)**|[讲话数据库*](http://jhsjk.people.cn/)|
 
 
